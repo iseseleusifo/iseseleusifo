@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Isesele Usifo 👋
 
+#### I am a highly innovative and process-oriented Data Analyst
+
+I am experienced in leading business process improvements and project optimization by providing analytical insights and business intelligence from the extraction, analysis, visualization, interpretation, and reconciliation of data from a variety of sources.
 <!--
 **iseseleusifo/iseseleusifo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
