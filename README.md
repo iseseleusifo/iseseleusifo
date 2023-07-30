@@ -2,7 +2,7 @@
 #### 👀 I’m interested in Data Analytics and Project Management
 #### 🌱 I’m currently learning SQL, Power BI, and Python
 #### 💞️ I’m looking to collaborate on Projects related to Data Analytics
-- 📫 How to reach me @iseseleusifo on Twitter
+
 
 I am experienced in leading business process improvements and project optimization by providing analytical insights and business intelligence from extracting, analyzing, visualizing, interpreting, and reconciling data from various sources.
 <!--
