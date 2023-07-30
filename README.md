@@ -1,4 +1,3 @@
-#### I am a highly innovative and process-oriented Data Analyst
 #### 👋 Hi, I’m Isesele Usifo
 #### 👀 I’m interested in Data Analytics and Project Management
 #### 🌱 I’m currently learning SQL, Power BI, and Python
