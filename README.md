@@ -1,6 +1,9 @@
-### Hi there, my name is Isesele Usifo 👋
-
 #### I am a highly innovative and process-oriented Data Analyst
+#### 👋 Hi, I’m Isesele Usifo
+#### 👀 I’m interested in Data Analytics and Project Management
+#### 🌱 I’m currently learning SQL, Power BI, and Python
+#### 💞️ I’m looking to collaborate on Projects related to Data Analytics
+📫 How to reach me @iseseleusifo on Twitter
 
 I am experienced in leading business process improvements and project optimization by providing analytical insights and business intelligence from the extraction, analysis, visualization, interpretation, and reconciliation of data from a variety of sources.
 <!--
